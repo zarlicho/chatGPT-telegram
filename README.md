@@ -1,7 +1,6 @@
 # chatGPT-telegram
 
 
-# Project Title
 
 chatGPT-telegram is a telegram chatbot based on chatGPT from openai which is very powerful
 
