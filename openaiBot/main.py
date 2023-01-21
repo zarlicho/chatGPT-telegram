@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 import openai
-openai.api_key = "secret key"
-api = 'bot-key'
+openai.api_key = "openai токен"
+api = 'токет вашего бота'
 bot = telebot.TeleBot(api)
 
 def rsp(question):
